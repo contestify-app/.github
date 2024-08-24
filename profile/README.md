@@ -22,7 +22,7 @@ Welcome to Contestify, the ultimate productivity tool for competitive programmer
 
 <div align="center">
   
-![Frame 10](https://github.com/contestify-app/contestify-app/assets/120157430/e4cbdcca-1df8-4836-b70f-2a6852cec078)
+![screenshot image](https://github.com/user-attachments/assets/231780ef-6aa8-4511-aecc-cfbb989b5d34)
 </div>
 
 
